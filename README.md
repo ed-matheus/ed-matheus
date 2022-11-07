@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Opa, tudo bem? Seja Bem-vindo! 
 ### Me chamo Edson Matheus, um jovem apaixonado por tecnologia!      
 
-<img src="img/meu_avatar.png" height=200px weight=200px align="center">
+<!-- <img src="img/meu_avatar.png" height=200px weight=200px align="center"> -->
 
 <br>
 <p>:office: Trabalho atualmente em um Call Center como Analista de Atendimento, em busca de oportunidade na área Tech.</p>
@@ -27,11 +27,15 @@ Here are some ideas to get you started:
 - Cel.: (11) 94383-4648, 
 - E-mail: edsonmatheus02@hotmail.com.</p>
 
-#### Como me encontrar...
+### Como me encontrar...
 <a href="https://www.linkedin.com/in/edson-matheus-b5a0171ba/" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/edson-matheus-b5a0171ba/" height=70px weight=70px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/edson-matheus-b5a0171ba/" height=50px weight=50px />
 </a>
 
-#### Ferramentas & Tecnologias
+### Ferramentas & Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
- 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+          
