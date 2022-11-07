@@ -27,16 +27,16 @@ Here are some ideas to get you started:
 - Cel.: (11) 94383-4648, 
 - E-mail: edsonmatheus02@hotmail.com.</p>
 
-### Como me encontrar...
+### Como me encontrar (é só clicar no ícone)
 <a href="https://www.linkedin.com/in/edson-matheus-b5a0171ba/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/edson-matheus-b5a0171ba/" height=50px weight=50px />
 </a>
 
 ### Ferramentas & Tecnologias
-<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=50px weight=50px />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=50px weight=50px />
-          
+### Estou Aprendendo
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=50px weight=50px />      
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=50px weight=50px />
-</div>   
+</div>
