@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Opa, tudo bem? Seja Bem-vindo! 
 ### Me chamo Edson Matheus, um jovem apaixonado por tecnologia!      
 
-<img src="img/meu_avatar.png" height=200px weight=200px>
+<img src="img/meu_avatar.png" height=200px weight=200px align="right">
 
 <br>
 <p>:office: Trabalho atualmente em um Call Center como Analista de Atendimento, em busca de oportunidade na área Tech.</p>
