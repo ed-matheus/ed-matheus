@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>:school_satchel: Finalizando Curso de Tecnologia em Design de Mídias Digitais na Fatec Barueri.</p>
 <p>:orange_book: Atualmente estudando Desenvolvimento Front End pela plataforma da DIO (Digital Innovation One).</p>
 <p>:memo: Tenho experiência com projetos realizados na Faculdade e também outros mais recentes na área de Front End, e eles se encontram todos no meu repositório de Desenvolvimento Web!.</p>
-<p>:telephone_receiver: Para entrar em contato comigo: 
+<p>:telephone_receiver: Para entrar em contato comigo:<br>
   Cel.: (11) 94383-4648, 
   E-mail: edsonmatheus02@hotmail.com.</p>
  
