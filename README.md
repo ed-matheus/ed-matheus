@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Me chamo Edson Matheus, um jovem apaixonado por tecnologia!      
 
 <br>
-#### Um pouco sobre mim...
+#### Um pouco sobre mim
 <p>:office: Exp. Profissional -> Analista de Atendimento, em busca de oportunidade na área Tech.</p>
 <p>:school_satchel: Formação -> Finalizando Curso de Tecnologia em Design de Mídias Digitais na Fatec Barueri.</p>
 <p>:orange_book: Conhecimento -> Estudando Desenvolvimento Front End.</p>
