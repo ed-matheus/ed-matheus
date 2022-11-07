@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 -->
 
 # Opa, tudo bem? Seja Bem-vindo! 
-### Me chamo Edson Matheus, um jovem apaixonado por tecnologia!      <img src="img/meu_avatar.png" height=200px weight=200px align="center">
+### Me chamo Edson Matheus, um jovem apaixonado por tecnologia!      
 
 <br>
-<p>:office: Trabalho atualmente em um Call Center como Analista de Atendimento, em busca de oportunidade na área Tech.</p>
-<p>:school_satchel: Finalizando Curso de Tecnologia em Design de Mídias Digitais na Fatec Barueri.</p>
-<p>:orange_book: Atualmente estudando Desenvolvimento Front End pela plataforma da DIO (Digital Innovation One).</p>
-<p>:memo: Tenho experiência com projetos realizados na Faculdade e também outros mais recentes na área de Front End, e eles se encontram todos no meu repositório de Desenvolvimento Web!.</p>
+### Um pouco sobre mim...
+<p>:office: Exp. Profissional -> Analista de Atendimento, em busca de oportunidade na área Tech.</p>
+<p>:school_satchel: Formação -> Finalizando Curso de Tecnologia em Design de Mídias Digitais na Fatec Barueri.</p>
+<p>:orange_book: Conhecimento -> Estudando Desenvolvimento Front End.</p>
+<p>:memo: Experiências Realizei projetos na Faculdade e também outros mais recentes na área de Front End, esses se encontram todos em meu repositório de Desenvolvimento Web!.</p>
 <p>:telephone_receiver: Para entrar em contato comigo:<br>
 - Cel.: (11) 94383-4648, 
 - E-mail: edsonmatheus02@hotmail.com.</p>
@@ -37,5 +38,5 @@ Here are some ideas to get you started:
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=50px weight=50px />      
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=50px weight=50px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50px weight=50px />         
 </div>
