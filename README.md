@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 -->
 
 # Opa, tudo bem? Seja Bem-vindo! 
-### Me chamo Edson Matheus, sou um jovem apaixonado por tecnologia!
-
-<br><p>:office: Trabalho atualmente em um Call Center como Analista de Atendimento, em busca de oportunidade na área Tech.</p>
+### Me chamo Edson Matheus, um jovem apaixonado por tecnologia!       
+<br>
+<p>:office: Trabalho atualmente em um Call Center como Analista de Atendimento, em busca de oportunidade na área Tech.</p>
 <p>:school_satchel: Finalizando Curso de Tecnologia em Design de Mídias Digitais na Fatec Barueri.</p>
 <p>:orange_book: Atualmente estudando Desenvolvimento Front End pela plataforma da DIO (Digital Innovation One).</p>
-<p>:memo: Tenho experiência com projetos realizados na Faculdade e também outros mais recentes na área de Front End, e eles se encontram todos no meu repostiório de Desenvolvimento Web!.</p>
-<p>:telephone_receiver: Para entrar em contato comigo: Cel.: (11) 94383-4648, E-mail: edsonmatheus02@hotmail.com.</p>
+<p>:memo: Tenho experiência com projetos realizados na Faculdade e também outros mais recentes na área de Front End, e eles se encontram todos no meu repositório de Desenvolvimento Web!.</p>
+<p>:telephone_receiver: Para entrar em contato comigo: 
+  Cel.: (11) 94383-4648, 
+  E-mail: edsonmatheus02@hotmail.com.</p>
+ 
