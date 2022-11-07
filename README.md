@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Opa, tudo bem? Seja Bem-vindo! 
 ### Me chamo Edson Matheus, sou um jovem apaixonado por tecnologia!
 
-:office: Trabalho atualmente em um Call Center como Analista de Atendimento, em busca de oportunidade na área Tech;
+<p>:office: Trabalho atualmente em um Call Center como Analista de Atendimento, em busca de oportunidade na área Tech;</p><br>
 :school_satchel: Finalizando Curso de Tecnologia em Design de Mídias Digitais na Fatec Barueri;
 :orange_book: Atualmente estudando Desenvolvimento Front End pela plataforma da DIO (Digital Innovation One);
 :memo: Tenho experiência com projetos realizados na Faculdade e também outros mais recentes na área de Front End, e eles se encontram todos no meu repostiório de Desenvolvimento Web!;
