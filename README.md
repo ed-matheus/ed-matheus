@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - Cel.: (11) 94383-4648, 
 - E-mail: edsonmatheus02@hotmail.com.</p>
 
-#### Como me encontrar...<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/edson-matheus-b5a0171ba/" height=100px weight=100px/>
+#### Como me encontrar...
+<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/edson-matheus-b5a0171ba/" height=100px weight=100px/>
           
  
