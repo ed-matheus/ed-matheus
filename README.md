@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello Dev, seja bem-vindo! 
+## Me chamo Edson Matheus, estou cursando o último semestre do Curso Superior de Tecnologia em Design de Mídias Digitais e estudando para me especializar em Desenvolvimento Front End. Amo tecnologia e por isso sou apaixonado em tudo o que vejo relacionado a essa área incrível!
+
