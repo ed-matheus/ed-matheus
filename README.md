@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Opa, tudo bem? Seja Bem-vindo! 
-### Me chamo Edson Matheus, um jovem apaixonado por tecnologia!      
+### Me chamo Edson Matheus, um jovem apaixonado por tecnologia!      <img src="img/meu_avatar.png" height=100px weight=100px align="center">
 
 <br>
 <p>:office: Trabalho atualmente em um Call Center como Analista de Atendimento, em busca de oportunidade na área Tech.</p>
@@ -26,13 +26,9 @@ Here are some ideas to get you started:
 - E-mail: edsonmatheus02@hotmail.com.</p>
 
 ### Como me encontrar e me conhecer melhor 
-<div>
 <a href="https://www.linkedin.com/in/edson-matheus-b5a0171ba/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/edson-matheus-b5a0171ba/" height=80px weight=80px />
 </a>
-
-<img src="img/meu_avatar.png" height=100px weight=100px align="center">
-</div>
 
 ### Ferramentas & Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=50px weight=50px />
