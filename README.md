@@ -26,4 +26,7 @@ Here are some ideas to get you started:
 <p>:telephone_receiver: Para entrar em contato comigo:<br>
 - Cel.: (11) 94383-4648, 
 - E-mail: edsonmatheus02@hotmail.com.</p>
+
+#### Como me encontrar...<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+          
  
