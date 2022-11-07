@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 - E-mail: edsonmatheus02@hotmail.com.</p>
 
 #### Como me encontrar...
-<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/edson-matheus-b5a0171ba/" height=100px weight=100px/>
-          
+<br>
+<a href="https://www.linkedin.com/in/edson-matheus-b5a0171ba/"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/edson-matheus-b5a0171ba/" height=100px weight=100px/>
+</a>
  
