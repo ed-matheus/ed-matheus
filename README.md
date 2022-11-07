@@ -16,14 +16,6 @@ Here are some ideas to get you started:
 # Opa, tudo bem? Seja Bem-vindo! 
 ### Me chamo Edson Matheus, um jovem apaixonado por tecnologia!      
 
-<div class="teste">
-  teste
-</div>
-
-<style>
-    teste: {background-color: blue}
-</style>
-
 <br>
 <p>:office: Trabalho atualmente em um Call Center como Analista de Atendimento, em busca de oportunidade na área Tech.</p>
 <p>:school_satchel: Finalizando Curso de Tecnologia em Design de Mídias Digitais na Fatec Barueri.</p>
