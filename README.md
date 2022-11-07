@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 ### Como me encontrar e me conhecer melhor 
 <div>
 <a href="https://www.linkedin.com/in/edson-matheus-b5a0171ba/" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/edson-matheus-b5a0171ba/" height=50px weight=50px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/edson-matheus-b5a0171ba/" height=80px weight=80px />
 </a>
-(Clique no ícone)
-<img src="img/meu_avatar.png" height=200px weight=200px align="center">
+
+<img src="img/meu_avatar.png" height=100px weight=100px align="center">
 </div>
 
 ### Ferramentas & Tecnologias
