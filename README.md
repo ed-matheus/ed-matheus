@@ -1,4 +1,4 @@
-# Opa, tudo bem? Seja Bem-vindo! 
+# Opa, tudo bem? 
 ### Me chamo Edson Matheus, um jovem apaixonado por tecnologia!      
 
 <br>
