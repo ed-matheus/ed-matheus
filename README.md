@@ -7,8 +7,8 @@
 <p>:orange_book: Conhecimento -> Estudando Desenvolvimento Front End.</p>
 <p>:memo: Experiências -> Realizei projetos na área de Front End, eles se encontram todos em meu repositório de Desenvolvimento Web.</p>
 <p>:telephone_receiver: Para entrar em contato comigo:<br>
-- Cel.: (11) 94383-4648, 
-- E-mail: edsonmatheus02@hotmail.com.</p>
+- Cel.: (11) 94383-4648 </p>
+<p>- E-mail: edsonmatheus02@hotmail.com.</p>
 
 ### Como me encontrar e me conhecer melhor 
 <p>(clique no ícone)</p>
