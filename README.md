@@ -4,11 +4,11 @@
 <br>
 <p>:office: Exp. Profissional -> Analista de Atendimento, em busca de oportunidade na área Tech.</p>
 <p>:school_satchel: Formação -> Finalizando Curso de Tecnologia em Design de Mídias Digitais na Fatec Barueri.</p>
-<p>:orange_book: Conhecimento -> Estudando Desenvolvimento Front End.</p>
-<p>:memo: Experiências -> Realizei projetos na área de Front End, eles se encontram todos em meu repositório de Desenvolvimento Web.</p>
+<p>:orange_book: Conhecimento -> Estudando Desenvolvimento Web e Python.</p>
+<p>:memo: Experiências -> Estou constantemente realizando projetos na área de Front End, eles se encontram todos em meu repositório de Desenvolvimento Web.</p>
 <p>:telephone_receiver: Para entrar em contato comigo:<br>
-- Cel.: (11) 94383-4648,<br>
-- E-mail: edsonmatheus02@hotmail.com.</p>
+    - Cel.: (11) 94383-4648,<br>
+    - E-mail: edsonmatheus02@hotmail.com.</p>
 
 ### Como me encontrar e me conhecer melhor 
 <p>(clique no ícone)</p>
@@ -24,5 +24,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=50px weight=50px />      
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=50px weight=50px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50px weight=50px /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=50px weight=50px />                      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=50px weight=50px />    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
