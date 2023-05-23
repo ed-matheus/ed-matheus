@@ -3,7 +3,7 @@
 
 <!-- Github Stats  -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ed-matheus&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ed-matheus&layout=compact$langs_count=8&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ed-matheus&layout=compact$langs_count=8&theme=algolia&height=100)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <p>:office: Exp. Profissional -> Analista de Atendimento, em busca de oportunidade na área Tech.</p>
