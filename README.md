@@ -5,7 +5,7 @@
 <br>
 <p>:school_satchel: Formação -> Finalizando Curso de Tecnologia em Design de Mídias Digitais na Fatec Barueri.</p>
 <p>:blue_book: Conhecimento -> Desenvolvimento Web Front End.</p>
-<p>:man_technologist: Experiências -> Ainda procurando oportunidade para entrar de fato na área dev, mas estou sempre realizando projetos na área de Front End, alguns se encontram no repositório 'desenvolvimento-web' e outros nos meus demais repositórios.</p>
+<p>:man_technologist: Experiências -> Ainda procurando oportunidade para entrar de fato na área dev, mas estou sempre realizando projetos Front End, alguns se encontram no repositório 'desenvolvimento-web' e outros nos meus demais repositórios.</p>
 <br>
 
 <!-- Github Stats -->
