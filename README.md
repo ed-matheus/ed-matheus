@@ -1,14 +1,14 @@
 # Opaa, tudo bem?
 ### Sou Edson Matheus, um jovem apaixonado por tecnologia!   
-<img width="180" heigh src="https://i.picasion.com/pic92/9cf3308c6ba9ee0a6bd43df12143b10c.gif" />
+<img width="165" heigh src="https://i.picasion.com/pic92/9cf3308c6ba9ee0a6bd43df12143b10c.gif" />
 
 <br>
 <p>:school_satchel: Formação -> Finalizando Curso de Tecnologia em Design de Mídias Digitais na Fatec Barueri.</p>
-<p>:orange_book: Conhecimento -> Desenvolvimento Web Front End.</p>
-<p>:memo: Experiências -> Estou constantemente realizando projetos na área de Front End, alguns se encontram no repositório 'desenvolvimento-web' e outros nos meus demais repositórios.</p>
+<p>:blue_book: Conhecimento -> Desenvolvimento Web Front End.</p>
+<p>:man_technologist: Experiências -> Ainda procurando oportunidade para entrar de fato na área dev, mas estou sempre realizando projetos na área de Front End, alguns se encontram no repositório 'desenvolvimento-web' e outros nos meus demais repositórios.</p>
 <br>
 
-<!-- Github Stats  -->
+<!-- Github Stats -->
 <div>
     <img height="210em" src="https://github-readme-stats.vercel.app/api?username=ed-matheus&show_icons=true&theme=algolia" />
     <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed-matheus&layout=compact$langs_count=8&theme=algolia&height=900"/>
