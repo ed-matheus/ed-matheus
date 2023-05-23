@@ -1,5 +1,6 @@
 # Opa, tudo bem?
 ### Sou Edson Matheus, um jovem apaixonado por tecnologia!   
+<img width="160" heigh src="https://i.picasion.com/pic92/9cf3308c6ba9ee0a6bd43df12143b10c.gif" />
 
 <br>
 <p>:school_satchel: Formação -> Finalizando Curso de Tecnologia em Design de Mídias Digitais na Fatec Barueri.</p>
@@ -22,14 +23,16 @@
   <img align="center" alt="Ed-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
 </div>
 
-##
+## 
 ### Como me encontrar :point_down:
 
-<div>
-    <a href="https://www.linkedin.com/in/edson-matheus-b5a0171ba/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/ed.matheuss/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
+<div style="display: flex; justify-content: between;">
+    <div>
+        <a href="https://www.linkedin.com/in/edson-matheus-b5a0171ba/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="https://www.instagram.com/ed.matheuss/" target="_blank">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+        </a>
+    </div>
 </div
