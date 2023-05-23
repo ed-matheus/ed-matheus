@@ -3,9 +3,8 @@
 
 <!-- Github Stats  -->
 <div>
-    <a href="https://beacons.ai/rafaballerini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ed-matheus&show_icons=true&theme=algolia" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed-matheus&layout=compact$langs_count=8&theme=algolia&height=900"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ed-matheus&show_icons=true&theme=algolia" />
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed-matheus&layout=compact$langs_count=8&theme=algolia&height=900"/>
 </div>    
 
 
