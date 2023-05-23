@@ -1,6 +1,6 @@
-# Opa, tudo bem?
+# Opaa, tudo bem?
 ### Sou Edson Matheus, um jovem apaixonado por tecnologia!   
-<img width="160" heigh src="https://i.picasion.com/pic92/9cf3308c6ba9ee0a6bd43df12143b10c.gif" />
+<img width="180" heigh src="https://i.picasion.com/pic92/9cf3308c6ba9ee0a6bd43df12143b10c.gif" />
 
 <br>
 <p>:school_satchel: Formação -> Finalizando Curso de Tecnologia em Design de Mídias Digitais na Fatec Barueri.</p>
