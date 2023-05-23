@@ -9,8 +9,8 @@
 
 <!-- Github Stats  -->
 <div>
-    <img height="260em" src="https://github-readme-stats.vercel.app/api?username=ed-matheus&show_icons=true&theme=algolia" />
-    <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed-matheus&layout=compact$langs_count=8&theme=algolia&height=900"/>
+    <img height="210em" src="https://github-readme-stats.vercel.app/api?username=ed-matheus&show_icons=true&theme=algolia" />
+    <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed-matheus&layout=compact$langs_count=8&theme=algolia&height=900"/>
 </div>    
 
 <div style="display: inline_block"><br>
