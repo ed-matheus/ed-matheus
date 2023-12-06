@@ -1,5 +1,5 @@
 # Opaa, tudo bem?
-### Sou Edson Matheus, um jovem apaixonado por tecnologia!   
+### Sou Edson Matheus, um jovem de 21 anos apaixonado por tecnologia!   
 <img width="165" heigh src="https://i.picasion.com/pic92/9cf3308c6ba9ee0a6bd43df12143b10c.gif" />
 
 <br>
