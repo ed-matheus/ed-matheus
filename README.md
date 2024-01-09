@@ -8,6 +8,9 @@
 <p>:man_technologist: Experiências -> Ainda procurando oportunidade para entrar de fato na área dev, mas estou sempre realizando projetos Front End, alguns se encontram no repositório 'desenvolvimento-web' e outros nos meus demais repositórios.</p>
 <br>
 
+<!-- Github Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ed-matheus)](https://git.io/streak-stats)
+
 <!-- Github Stats -->
 <div>
     <img height="210em" src="https://github-readme-stats.vercel.app/api?username=ed-matheus&show_icons=true&theme=github_dark" />
