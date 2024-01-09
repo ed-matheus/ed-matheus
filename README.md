@@ -18,6 +18,15 @@
     <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed-matheus&show_icons=true&theme=github_dark&size_weight=0.5&count_weight=0.5">
 </div>    
 
+<div>
+ <img alt="Ed-HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+ <img alt="Ed-CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+ <img alt="Ed-JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+ <img alt="Ed-React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <br>
+ <img alt="Ed-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</div>
+
+<!--
 <div style="display: inline_block"><br>
   <img align="center" alt="Ed-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ed-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -28,6 +37,7 @@
   <img align="center" alt="Ed-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Ed-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
+-->
 
 ## 
 ### Como me encontrar :point_down:
