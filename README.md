@@ -19,16 +19,16 @@
 </div>    
 
 <div>
- <a href="https://github.com/ed-matheus/sunnyside-agency-landingpage" target="_blank">
+ <a href="https://github.com/ed-matheus/sunnyside-agency-landingpage" target="_blank" style="text-decoration: none">
   <img alt="Ed-HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
  </a>
- <a href="https://github.com/ed-matheus/sunnyside-agency-landingpage" target="_blank">
+ <a href="https://github.com/ed-matheus/sunnyside-agency-landingpage" target="_blank" style="text-decoration: none">
   <img alt="Ed-CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
  </a>
- <a href="https://github.com/ed-matheus/desenvolvimento-web/tree/master/exercicios-realizados/javascript-logica" target="_blank">
+ <a href="https://github.com/ed-matheus/desenvolvimento-web/tree/master/exercicios-realizados/javascript-logica" target="_blank" style="text-decoration: none">
   <img alt="Ed-JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
  </a>
- <a href="https://github.com/ed-matheus/react-advice-generator" target="_blank">
+ <a href="https://github.com/ed-matheus/react-advice-generator" target="_blank" style="text-decoration: none">
   <img alt="Ed-React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> 
  </a>
  <br>
