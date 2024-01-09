@@ -21,7 +21,7 @@
 ### Skills
 
 <div>
- <a href="https://github.com/ed-matheus/sunnyside-agency-landingpage" target="_blank" style="text-decoration: none;">
+ <a href="https://github.com/ed-matheus/sunnyside-agency-landingpage" target="_blank">
   <img alt="Ed-HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
  </a>
  <a href="https://github.com/ed-matheus/sunnyside-agency-landingpage" target="_blank">
