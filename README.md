@@ -2,8 +2,6 @@
 ### Sou Edson Matheus, um jovem de 21 anos apaixonado por tecnologia!   
 <img width="160" src="https://i.picasion.com/pic92/9cf3308c6ba9ee0a6bd43df12143b10c.gif" />
 
-Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por programação e ávido por desafios estimulantes. Estou em busca de oportunidades que me permitam aplicar com entusiasmo meu conhecimento e criatividade na criação de soluções inovadoras. Minha abordagem é proativa, sempre buscando superar obstáculos. Estou profundamente comprometido com o meu crescimento profissional, disposto a enfrentar desafios e aprimorar minhas habilidades para manter a constante evolução e contribuir de forma significativa no campo da tecnologia.
-
 <br>
 <p>:school_satchel: Formação -> Finalizando Curso de Tecnologia em Design de Mídias Digitais na Fatec Barueri.</p>
 <p>:blue_book: Conhecimento -> Desenvolvimento Web FullStack, com foco principal em Front End.</p>
