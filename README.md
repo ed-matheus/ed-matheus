@@ -15,7 +15,7 @@
     <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed-matheus&show_icons=true&theme=github_dark&size_weight=0.5&count_weight=0.5">
 </div>   
 -->
-### Skills
+<h3>Skills</h3>
 
 <div>
  <a href="https://github.com/ed-matheus/sunnyside-agency-landingpage" target="_blank">
@@ -35,7 +35,7 @@
  <img alt="Ed-VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
-### Contato :point_down:
+<h3>Contato :point_down:</h3>
 
 <div style="display: flex; justify-content: between;">
     <div>
