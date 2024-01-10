@@ -1,23 +1,20 @@
 # Opaa, tudo bem?
-### Sou Edson Matheus, um jovem de 21 anos apaixonado por tecnologia!   
+### Sou Edson Matheus, um jovem apaixonado por tecnologia!   
 <img width="160" src="https://i.picasion.com/pic92/9cf3308c6ba9ee0a6bd43df12143b10c.gif" />
 
-<br>
-<p>:school_satchel: Formação -> Finalizando Curso de Tecnologia em Design de Mídias Digitais na Fatec Barueri.</p>
-<p>:blue_book: Conhecimento -> Desenvolvimento Web FullStack, com foco principal em Front End.</p>
-<p>:man_technologist: Experiências -> Ainda procurando oportunidade para entrar de fato na área dev, mas estou sempre realizando projetos Front End, alguns se encontram no repositório 'desenvolvimento-web' e outros nos meus demais repositórios.</p>
-<br>
+• Design de Mídias Digitais <br>
+• Desenvolvimento Fullstack com foco em Frontend <br>
+• Proatividade e Cumprimento naquilo que deve ser feito
 
-<!-- Github Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ed-matheus&theme=dark)](https://git.io/streak-stats)
- -->
-
-<!-- Github Stats -->
+<hr>
+<img src="https://streak-stats.demolab.com/?user=ed-matheus&theme=dark" >
+<hr>
+<!-- Github Stats 
 <div class="github-stats">
     <img height="210em" src="https://github-readme-stats.vercel.app/api?username=ed-matheus&show_icons=true&theme=github_dark" />
     <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed-matheus&show_icons=true&theme=github_dark&size_weight=0.5&count_weight=0.5">
 </div>   
-
+-->
 ### Skills
 
 <div>
