@@ -3,7 +3,7 @@
 <img width="160" src="https://i.picasion.com/pic92/9cf3308c6ba9ee0a6bd43df12143b10c.gif" />
 
 • Design de Mídias Digitais <br>
-• Desenvolvimento Fullstack com foco em Frontend <br>
+• Desenvolvedor Front-end Júnior <br>
 • Proatividade e Cumprimento naquilo que deve ser feito
 
 <hr>
