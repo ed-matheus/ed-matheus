@@ -12,7 +12,7 @@
 </div>
 <hr>
 
-<h3>Skills</h3>
+<h2>Skills</h2>
 
 <div>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -27,7 +27,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
 
-<h3>Contato :point_down:</h3>
+<h2>Contato :point_down:</h2>
 
 <div style="display: flex; justify-content: between;">
     <div>
