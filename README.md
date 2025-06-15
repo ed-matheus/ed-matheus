@@ -1,5 +1,5 @@
 # Opaa, tudo bem?
-### Sou Edson Matheus, um jovem apaixonado por tecnologia!   
+### Sou Edson Matheus, apaixonado por tecnologia!   
 <img width="160" src="https://i.picasion.com/pic92/9cf3308c6ba9ee0a6bd43df12143b10c.gif" />
 
 • Design de Mídias Digitais <br>
@@ -7,7 +7,10 @@
 • Proatividade e Cumprimento naquilo que deve ser feito
 
 <hr>
-<img src="https://streak-stats.demolab.com/?user=ed-matheus&theme=dark" >
+<div align="center">
+    <img src="https://streak-stats.demolab.com/?user=ed-matheus&theme=dark" >
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed-matheus&layout=compact&langs_count=7&theme=dark"/>
+</div>
 <hr>
 <!-- Github Stats 
 <div class="github-stats">
